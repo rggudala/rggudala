@@ -7,9 +7,6 @@ To utilize my knowledge and ideas in this field of machine learning,Data Science
 Reach me on:
 My profile in Linkedin : linkedin.com/in/radha-gudala-13b547107 💼
 
-Radha's github stats
-
-Top Langs
 
 🔭 I’m currently working on - Data Science & Machine Learning.
 
