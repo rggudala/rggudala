@@ -8,7 +8,7 @@ Reach me on:
 My profile in Linkedin : linkedin.com/in/radha-gudala-13b547107 💼
 
 
-🔭 I’m currently working on - Machine Learning.
+🔭 I’m currently working on - New Projects
 
 🌱 I’m currently learning - Advanced SQL, NLP
 
